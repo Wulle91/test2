@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-5w*^*_035_5qr$2p4%lnfd2i_zykfqpl+1i3hlkzg(^hdycqhn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://wulle-django-todo-app.herokuapp.com/']
+ALLOWED_HOSTS = ['https://wulle-django-todo-app.herokuapp.com/', 'https://git.heroku.com/wulle-django-todo-app.git']
 
 
 # Application definition
